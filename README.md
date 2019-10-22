@@ -7,4 +7,5 @@ City has been visited that city is not eligible to be travelled to again, the si
 **Fitness function** calculates the total distance between each city in the chromosome’s permutation.
 
 **Selection** Probability to create bias in choosing fitter chromosomes to serve as the parents.
+
 **Mutation action** is modified to avoid creating repetition of cities visited
